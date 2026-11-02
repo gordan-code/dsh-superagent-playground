@@ -17,3 +17,15 @@ The agent then:
 
 Review the pull request as usual and merge it when it looks right. The agent
 does not merge pull requests on its own.
+
+## 如何运行
+
+安装依赖并构建 dsh-superagent：
+
+```bash
+# 安装依赖
+pnpm install
+
+# 构建
+pnpm build
+```
