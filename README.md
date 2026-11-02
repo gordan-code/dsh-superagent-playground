@@ -18,7 +18,7 @@ The agent then:
 Review the pull request as usual and merge it when it looks right. The agent
 does not merge pull requests on its own.
 
-## 怎么运行
+## 如何运行
 
 安装依赖并构建 dsh-superagent：
 
